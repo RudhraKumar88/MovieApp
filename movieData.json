@@ -1,0 +1,104 @@
+{
+    "movieData":[
+        {
+            "name":"RRR",
+            "rating": 9,
+            "release_date": "24/04/2022"
+        },
+        {
+            "name":"KGF2",
+            "rating": 9.4,
+            "release_date": "06/05/2022"
+        },
+        {
+            "name":"Pushpa",
+            "rating": 8,
+            "release_date": "16/03/2022"
+        },
+        {
+            "name":"Bhulbhuaiya 2",
+            "rating": 7,
+            "release_date": "22/05/2022"
+        },
+        {
+            "name":"KGF1",
+            "rating":7,
+            "release_date": "23/04/2020"
+        },
+        {
+            "name":"UMMA",
+            "rating": 9,
+            "release_date": "24/05/2022"
+        },
+        {
+            "name":"THAR",
+            "rating": 6,
+            "release_date": "14/03/2022"
+        },
+        {
+            "name":"JERSERY",
+            "rating": 6,
+            "release_date": "05/04/2022"
+        },
+        {
+            "name":"HERO",
+            "rating": 9,
+            "release_date": "24/03/2022"
+        },
+        {
+            "name":"CHEHRE",
+            "rating": 8,
+            "release_date": "03/03/2022"
+        },
+        {
+            "name":"SATYAMEVA JAYA",
+            "rating": 9,
+            "release_date": "24/04/2021"
+        },
+        {
+            "name":"MORBIUS",
+            "rating": 9,
+            "release_date": "30/04/2022"
+        },
+        {
+            "name":"BHOOT POLICE",
+            "rating": 9,
+            "release_date": "24/11/2021"
+        },
+        {
+            "name":"SHERSHAAH",
+            "rating": 9,
+            "release_date": "25/09/2021"
+        },
+        {
+            "name":"SIDDAT",
+            "rating": 7,
+            "release_date": "24/04/2022"
+        },
+        {
+            "name":"FIR",
+            "rating": 7,
+            "release_date": "13/10/2021"
+        },
+        {
+            "name":"HARRY PATTER NEW 20TH",
+            "rating": 9,
+            "release_date": "24/03/2022"
+        },
+        {
+            "name":"HERO",
+            "rating": 8,
+            "release_date": "06/06/2021"
+        },
+        {
+            "name":"CHHORI",
+            "rating": 9,
+            "release_date": "24/09/2021"
+        },
+        {
+            "name":"TADAP",
+            "rating": 5,
+            "release_date": "12/10/2021"
+        }
+    ]
+}
